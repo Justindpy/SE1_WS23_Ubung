@@ -1,15 +1,15 @@
 package org.hbrs.se1.ws23.uebung1.control;
 
 /**
- * Das Translator Interface. Die Anzahl der Methoden ist fix
- * und darf NICHT erweitert werden. Sichtbarkeiten der Methoden koennen
+ * DaNs Translator Interface. Die Anzahl der Methoden ist fix
+ * und darf ICHT erweitert werden. Sichtbarkeiten der Methoden koennen
  * unter Umstaenden angepasst werden.
  *
  * @author saschaalda
  *
  */
 
-interface Translator {
+public interface Translator {
 	
 	double version = 1.0; // Version des Interface
 	
