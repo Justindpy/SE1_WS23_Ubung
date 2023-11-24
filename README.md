@@ -28,3 +28,26 @@ Akzeptanztest für zweite User Story:
 
 b)
 siehe erweitertes UML-UseCase Diagramm.
+
+c)
+### Textueller Use Case
+Name des Systems: **Coll@HBRS**
+<br>
+Name des Use Case: **Als Student möchte ich mich nach Projektausschreibungen suchen.**
+<br>
+Teilnehmende Akteure: **Student**
+<br>
+Ereignisfluss: 
+1. Student ist auf der Seite der Projektausschreibung
+2. Student klickt auf "Jetzt bewerben!"
+3. Student bekommt die Möglichkeit aus zwei Optionen zu wählen:
+   <ul><li> Bewerbungsschreiben und Lebenslauf als PDF hochladen </li>
+    <li> Daten werden aus ihrem Profil übernommen </li> </ul>
+Vorbedingung: **Student hat ein gültiges Profil, ist eingeloggt und es gibt ein Projekt.***
+<br>
+Nachbedingung: **Student hat sich beworben und das Unternehmen wurde benachrichtigt.**
+<br>
+Qualitätsanforderung: **Das Unternehmen soll nach der Bewerbung innerhalb von einer Minute benachrichtigt werden.**
+
+### Test Case
+siehe Excel Datei
